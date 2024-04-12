@@ -2,6 +2,7 @@ import React from 'react'
 
 function App() {
   return (
+    <>
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
     <div class="container-fluid">
       <a class="navbar-brand" href="#">Navbar</a>
@@ -26,6 +27,8 @@ function App() {
       </div>
     </div>
   </nav>
+  <h1>WHAN</h1>
+  </>
   )
 }
 
